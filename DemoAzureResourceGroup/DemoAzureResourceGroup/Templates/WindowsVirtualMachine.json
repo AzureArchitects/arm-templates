@@ -6,21 +6,20 @@
       "type": "string",
       "minLength": 1,
       "metadata": {
-        "description": "Username for the Virtual Machine."
+        "description": "DemoPiet"
       }
     },
     "adminPassword": {
       "type": "securestring",
       "metadata": {
-        "description": "Password for the Virtual Machine."
+        "description": "1GekkeGerrit!"
       }
     },
     "dnsNameForPublicIP": {
       "type": "string",
       "minLength": 1,
       "metadata": {
-        "description": "Globally unique DNS Name for the Public IP used to access the Virtual Machine."
-      }
+        "description": "demovmabs123"}
     },
     "windowsOSVersion": {
       "type": "string",
